@@ -1,0 +1,9 @@
+The number of students is: 11
+The number of students that only approached one test : 5
+The number of students who didnt approache at all : 2
+The precentge of students who fail in approache A is : 27.27%
+The precentge of students who fail in approache B is: 18.18%
+The avrage is : 59.50
+The avrage is : 57.20
+The best student is : 8972387 , grade : 99
+The worst student is : 8723987 , grade : 1
